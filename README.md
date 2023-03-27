@@ -1,8 +1,8 @@
-# dev_assignment
+# Assignment
 
 ### Problem statement for Python developer position:
 
-Subscribe to the websocket feed to get the latest transactions from arbitrum sequencer. Show your txns in a log file.
+Create Python code which subscribe to the websocket feed to get the latest transactions from arbitrum sequencer. Show your txns in a log file.
 
 There is a bit of reading material that the candidate needs to go through before actually getting to the coding part. 
 
@@ -15,7 +15,11 @@ There is a bit of reading material that the candidate needs to go through before
    **Plus points for**:
    - Do it for both L2s i.e. Arbitrum & Optimism.
    - try to make use of **async** code flow in your script and get both arb & optmism txns using the same script in async fashion. Code should be non-blocking in nature.
-   
+  
+###Submission Guidelines:
+
+
+Create public github repo and and email link to us with proper documentation.
    
 ### Resources:
 
