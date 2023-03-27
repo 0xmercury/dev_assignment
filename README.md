@@ -6,7 +6,7 @@ Create Python code which subscribe to the websocket feed to get the latest trans
 
 There is a bit of reading material that the candidate needs to go through before actually getting to the coding part. 
 
-- you must know answers to the questions like what is blockchain?, different types of blockchains, architecture of ethereum blockchain?
+- Architecture of Ethereum blockchain?
 - Read about what is REST, websocket. What are their use-cases & their limitations?
 - Read about arbitrum architecture. How does sequencers, relayers works & communication with ethereum happens?
 - And how does sync/async websocket works. what's the difference b/w them etc.
